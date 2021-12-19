@@ -2,6 +2,6 @@
 
 ## Dockerイメージビルド
 ~~~bash
-$ cd ~/mycpu
+$ cd ~/riscv-cpu-by-chisel
 $ docker build . -t riscv/mycpu
 ~~~
